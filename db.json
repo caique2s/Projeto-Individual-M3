@@ -1,0 +1,92 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Adão Negro",
+      "descricao": "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.",
+      "preco": 32.00,
+      "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrULQHUpm3Zr60AXFAltaQkpo6DAe8FZmhSrYsa7t5DCUeaeF9"
+    },
+    {
+      "id": 2,
+      "nome": "Pantera Negra 2",
+      "descricao": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
+      "preco": 34.00,
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNHhebgLBpkoVVRUZLS6iBk4_QNFL7ob1hRGV7Me_pvVhBH-w"
+    },
+    {
+      "id": 3,
+      "nome": "Psicopata Americano",
+      "descricao": "Esta é uma comédia de humor seco que examina os elementos que transformam um homem em um monstro.",
+      "preco": 22.00,
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFE1J1VSNb8vsNhNH8hbLu6LoX03xYqieqKMKolcAyoLohoUvY"
+    },
+    {
+      "id": 4,
+      "nome": "Clube da Luta",
+      "descricao": "Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído.",
+      "preco": 24.00,
+      "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh4uorEu-p2DDXzQFkZNvXV-0O_xK7dh1VLFKsDAaAn0dzr5c2"
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 1,
+      "nome": "Refrigerante pequeno",
+      "descricao": "350ml",
+      "preco": 5.50,
+      "imagem": "https://static.clubeextra.com.br/img/uploads/1/801/12293801.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerante medio",
+      "descricao": "1 litro",
+      "preco": 14.00,
+      "imagem": "https://static.clubeextra.com.br/img/uploads/1/844/19796844.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Água pequena",
+      "descricao": "350ml",
+      "preco": 2.00,
+      "imagem": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/26201/medium/agua-bonafont-650ml-sgas_82466.png"
+    },
+    {
+      "id": 4,
+      "nome": "Água media",
+      "descricao": "1 litro",
+      "preco": 7.00,
+      "imagem": "https://img.kalunga.com.br/fotosdeprodutos/348226z.jpg"
+    }
+  ],
+  "pipoca": [
+    {
+      "id": 1,
+      "nome": "Pipoca média",
+      "descricao": "salgada",
+      "preco": 14.00,
+      "imagem": "https://www.feitoaquarela.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/capturar33_2.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Pipoca grande",
+      "descricao": "salgada",
+      "preco": 16.00,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719035-MLB41431178067_042020-O.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "Pipoca média",
+      "descricao": "doce",
+      "preco": 16.00,
+      "imagem": "https://www.feitoaquarela.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/capturar33_2.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Pipoca grande",
+      "descricao": "doce",
+      "preco": 20.00,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719035-MLB41431178067_042020-O.jpg"
+    }
+  ]
+}
